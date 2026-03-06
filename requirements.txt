@@ -1,0 +1,6 @@
+# Notebook requirements
+matplotlib>=3.8.0
+numpy>=1.24.0
+
+# Run notebooks in IDE
+ipykernel>=6.0.0
